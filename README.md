@@ -1,11 +1,13 @@
-# ShinoBOT
+# ShinoBOT (Suite)
 
 This repository is designated just for the binary, not for the source code.
+To download those file, click the file name and click [Raw] button.
 
+http://shinobot.com
+http://shinosec.com/shinobotsuite/
 
 ##Version List
 
-To download those file, click the file name and click [Raw] button.
 
 ###ShinoBOT
 
