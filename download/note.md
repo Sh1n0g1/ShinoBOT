@@ -1,5 +1,7 @@
 #Version List
 
+To download those file, click the file name and click [Raw] button.
+
 ##ShinoBOT
 
 | Version 	|            Call back URL	       |  Control Panel              |
@@ -15,6 +17,8 @@
 "*" in URL means random string.
 
 ##ShinoBOT Suite
+
 | Version    |
+|:----------:|
 | 2.0.0.0    |
 | 1.0.0.1    |
