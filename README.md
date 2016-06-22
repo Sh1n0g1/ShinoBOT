@@ -1,7 +1,11 @@
 # ShinoBOT (Suite)
 
-This repository is designated just for the binary, not for the source code.
-To download those file, click the file name and click [Raw] button.
+This repository is designated just for the binary, not for the source code.  
+To download a file...
+
+* go to the [download](https://github.com/Sh1n0g1/ShinoBOT/tree/master/download) directory
+* click the file name
+* click [Raw] button.
 
 http://shinobot.com
 http://shinosec.com/shinobotsuite/
