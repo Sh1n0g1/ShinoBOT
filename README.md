@@ -1,17 +1,20 @@
 # ShinoBOT (Suite)
 
-https://www.toolswatch.org/badges/arsenal/2015.svg
-
-
 This repository is designated just for the binary, not for the source code.  
+
+For the detail go to
+* http://shinobot.com
+* http://shinosec.com/shinobotsuite/
+
+
 To download a file...
+
+
 
 * go to the [download](https://github.com/Sh1n0g1/ShinoBOT/tree/master/download) directory
 * click the file name
 * click [Raw] button.
 
-http://shinobot.com
-http://shinosec.com/shinobotsuite/
 
 ##Version List
 
