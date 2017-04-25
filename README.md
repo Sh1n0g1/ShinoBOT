@@ -28,7 +28,7 @@ Go to http://shinobot.com/downloads.php to get the latest polymorphic edition.
 
 | Version 	|            Call back URL	       |  Control Panel              |Note|
 |-----------|----------------------------------|-----------------------------|----|
-| 3.1.0.0   | http[:]//mnd2015.info/ (Customizable)| http://shinobot.com/ ||
+| 3.1.0.0   | http[:]//mnd2015.info/ (Customizable)| http://shinobot.com/ |[![Black Hat Arsenal](https://www.toolswatch.org/badges/arsenal/2016.svg)](https://www.blackhat.com/us-16/arsenal.html)|
 | 3.0.0.5   | http[:]//*.mnd2015.info/         | http://shinobot.com/        |[![Black Hat Arsenal](https://www.toolswatch.org/badges/arsenal/2015.svg)](https://www.blackhat.com/us-15/arsenal.html)|
 | 3.0.0.4   | http[:]//*.shinobot.com/         | http://shinobot.com/        |    |
 | 3.0.0.1   | http[:]//shinobot.com/           | http://shinobot.com/        |[![Black Hat Arsenal](https://www.toolswatch.org/badges/arsenal/2015.svg)](https://www.blackhat.com/asia-15/arsenal.html)|
